@@ -75,7 +75,7 @@ public class FreqQuery {
 //        supList.add(3);
 //        supList.add(2);
         list.add(new int[]{3,2});
-        freqQuery(list).toString();
+//        freqQuery(list).toString();
 
     }
 }
